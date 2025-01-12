@@ -1,4 +1,4 @@
-# Emotion-Based Music Recommendation AI System
+# Expression-Based Music Recommendation AI System
 
 This project integrates computer vision, deep learning, and a user-friendly web interface to recommend songs based on the user's emotions. The system uses facial landmark detection and hand gesture recognition to analyze emotional states in real-time and provides personalized song recommendations.
 
